@@ -18,7 +18,7 @@ A classe `Album` mantém uma lista de músicas e utiliza a duração de cada mú
 ## 🚀 Tecnologias utilizadas
 
 * **C#**
-* **.NET**
+* ** .NET **
 * **Programação Orientada a Objetos (POO)**
 * **LINQ**
 * **Git e GitHub**
