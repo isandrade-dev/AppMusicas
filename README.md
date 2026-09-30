@@ -65,10 +65,6 @@ Este projeto faz parte do meu processo de aprendizado em **C# e desenvolvimento 
 
 **Ígor de Santana Andrade**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-
-💼 Interesse em desenvolvimento Back-End e tecnologia
-
 📧 **E-mail:** [igoraju27@gmail.com](mailto:igoraju27@gmail.com)
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/igor-andrade-079662368/
