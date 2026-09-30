@@ -37,15 +37,17 @@ Durante o desenvolvimento, foram utilizados conceitos importantes de C#, como:
 * LINQ com `Sum()`;
 * Estruturas de repetição com `foreach`.
 
-## 📂 Estrutura do projeto
-
-```text
+## Estrutura do projeto
+ 
+```
 AppMusica/
-│
-├── Album.cs
-├── Musica.cs
-├── Program.cs
-└── AppMusica.csproj
+├── AppMusica.csproj
+├── Program.cs      # Ponto de entrada: monta e exibe o podcast
+├── Banda.cs        # Banda com lista de álbuns e discografia
+├── Album.cs        # Álbum com lista de músicas e duração total
+├── Musica.cs       # Música com artista, duração e disponibilidade
+├── PodCast.cs      # Podcast com lista de episódios
+└── Episodio.cs     # Episódio com ordem, título, duração e convidados
 ```
 
 ## ⚙️ Funcionamento
