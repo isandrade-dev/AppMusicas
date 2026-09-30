@@ -54,25 +54,6 @@ Um álbum recebe um nome através do construtor e possui uma lista de músicas.
 
 As músicas podem ser adicionadas utilizando o método `AdicionarMusica()`. O projeto também possui o método `ExibirMusicasDoAlbum()`, responsável por apresentar as músicas cadastradas e a duração total do álbum.
 
-## ▶️ Como executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/SEU-USUARIO/AppMusica.git
-```
-
-### 2. Entre na pasta
-
-```bash
-cd AppMusica
-```
-
-### 3. Execute o projeto
-
-```bash
-dotnet run
-```
 
 ## 📚 Objetivo
 
