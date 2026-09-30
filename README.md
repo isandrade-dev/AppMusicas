@@ -42,12 +42,12 @@ Durante o desenvolvimento, foram utilizados conceitos importantes de C#, como:
 ```
 AppMusica/
 ├── AppMusica.csproj
-├── Program.cs      # Ponto de entrada: monta e exibe o podcast
-├── Banda.cs        # Banda com lista de álbuns e discografia
-├── Album.cs        # Álbum com lista de músicas e duração total
-├── Musica.cs       # Música com artista, duração e disponibilidade
-├── PodCast.cs      # Podcast com lista de episódios
-└── Episodio.cs     # Episódio com ordem, título, duração e convidados
+├── Program.cs     
+├── Banda.cs      
+├── Album.cs       
+├── Musica.cs       
+├── PodCast.cs    
+└── Episodio.cs     
 ```
 
 ## ⚙️ Funcionamento
